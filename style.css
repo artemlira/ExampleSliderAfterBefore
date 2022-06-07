@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.wrapper {
+   max-width: 100vw;
+   padding: 20px;
+}
+
+img {
+   width: 100%;
+}
