@@ -8,6 +8,15 @@
    padding: 20px;
 }
 
+.slider {
+   position: relative;
+}
+
 img {
    width: 100%;
+}
+
+.last__img {
+   border-right: 2px solid #fff;
+
 }
